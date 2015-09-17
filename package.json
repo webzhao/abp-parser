@@ -1,0 +1,14 @@
+{
+  "name": "abp-parser",
+  "version": "1.0.0",
+  "description": "解析 API Blueprint 格式的文档，返回 JSON 格式。",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "zhaowenbo@360.cn",
+  "license": "ISC"
+}
