@@ -4,7 +4,7 @@
   "description": "解析 API Blueprint 格式的文档，返回 JSON 格式。",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "mocha"
   },
   "keywords": [
     "API"
